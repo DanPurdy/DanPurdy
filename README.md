@@ -2,7 +2,7 @@
 
 # Hi I'm Dan
 
-I'm a Fullstack JavaScript developer from London, UK. Currently a Senior Software Engineer at [PrimaryBid](https://primarybid.com/), formerly the Lead Frontend Engineer at [Urban](https://urban.co)
+I'm a Fullstack JavaScript developer from London, UK. Currently a Engineering Manager at [PrimaryBid](https://primarybid.com/), formerly the Lead Frontend Engineer at [Urban](https://urban.co)
 
 * [My website - dpurdy.me](https://dpurdy.me)
 * [My blog](https://dpurdy.me/blog)
