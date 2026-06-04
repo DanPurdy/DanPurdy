@@ -2,7 +2,7 @@
 
 # Hi I'm Dan
 
-I'm a Fullstack developer from London, UK. Currently Head of Engineering at [Wonderbly](https://wonderbly.com/), formerly Senior Engineering Manager at [PrimaryBid](https://primarybid.com) and Lead Frontend Engineer at [Urban](https://urban.co)
+I'm a Fullstack developer from London, UK. Currently VP of Engineering at [Wonderbly](https://wonderbly.com/), formerly Senior Engineering Manager at [PrimaryBid](https://primarybid.com) and Lead Frontend Engineer at [Urban](https://urban.co)
 
 * [My website - dpurdy.me](https://dpurdy.me)
 * [My blog](https://dpurdy.me/blog)
